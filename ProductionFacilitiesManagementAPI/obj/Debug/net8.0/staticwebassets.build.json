@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uG1wBfruXnL1iKztfsGRBviNiTCADqvRGQFsRhpvTf8=",
+  "Source": "ProductionFacilitiesManagement.API",
+  "BasePath": "_content/ProductionFacilitiesManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\models\\contractequipmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\controllers\\customauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:controllers\\customauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\controllers\\productionfacilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:controllers\\productionfacilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\controllers\\equipmenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:controllers\\equipmenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\controllers\\contractequipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:controllers\\contractequipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\requests\\contractequipmentaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:requests\\contractequipmentaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\dbcontext\\productionfacilitymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\responses\\contractresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:responses\\contractresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\interfaces\\repositories\\icontractequipmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\repositories\\contractequipmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagementapi\\requests\\contractaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94847B8-0AD8-44AA-8A48-599D6EE917AC}|ProductionFacilitiesManagement.API.csproj|solutionrelative:requests\\contractaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\repositories\\productionfacilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\repositories\\equipmenttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\models\\productionfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\models\\equipmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318225649_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE083CAB-2A50-4945-9F78-01C6DE95ACE7}|..\\ProductionFacilitiesManagement.DAL\\ProductionFacilitiesManagement.DAL.csproj|c:\\users\\sanya\\source\\repos\\productionfacilitiesmanagementapi\\productionfacilitiesmanagement.dal\\migrations\\20240318230022_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-03-19T06:13:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractEquipmentType.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\ContractEquipmentType.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Models\\ContractEquipmentType.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\ContractEquipmentType.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Models\\ContractEquipmentType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T05:39:00.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractController.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "Controllers\\ContractController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:06:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractEquipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\ContractEquipmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractEquipmentController.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\ContractEquipmentController.cs",
+              "RelativeToolTip": "Controllers\\ContractEquipmentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:11:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EquipmentTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\EquipmentTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipmentTypeController.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\EquipmentTypeController.cs",
+              "RelativeToolTip": "Controllers\\EquipmentTypeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:06:55.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionFacilityController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\ProductionFacilityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductionFacilityController.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\ProductionFacilityController.cs",
+              "RelativeToolTip": "Controllers\\ProductionFacilityController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:48:21.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\CustomAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomAuthController.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Controllers\\CustomAuthController.cs",
+              "RelativeToolTip": "Controllers\\CustomAuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:06:53.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContractEquipmentAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Requests\\ContractEquipmentAddRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\ContractEquipmentAddRequest.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Requests\\ContractEquipmentAddRequest.cs",
+              "RelativeToolTip": "Requests\\ContractEquipmentAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:16:16.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductionFacilityManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\DbContext\\ProductionFacilityManagementContext.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\DbContext\\ProductionFacilityManagementContext.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\DbContext\\ProductionFacilityManagementContext.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\DbContext\\ProductionFacilityManagementContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:58:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IContractEquipmentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Interfaces\\Repositories\\IContractEquipmentTypeRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Interfaces\\Repositories\\IContractEquipmentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Interfaces\\Repositories\\IContractEquipmentTypeRepository.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Interfaces\\Repositories\\IContractEquipmentTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:26:19.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractEquipmentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractEquipmentTypeRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractEquipmentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractEquipmentTypeRepository.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractEquipmentTypeRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:04:41.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractRepository.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractRepository.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\ContractRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:05:07.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContractResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Responses\\ContractResponse.cs",
+              "RelativeDocumentMoniker": "Responses\\ContractResponse.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Responses\\ContractResponse.cs",
+              "RelativeToolTip": "Responses\\ContractResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:52:20.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContractAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Requests\\ContractAddRequest.cs",
+              "RelativeDocumentMoniker": "Requests\\ContractAddRequest.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagementAPI\\Requests\\ContractAddRequest.cs",
+              "RelativeToolTip": "Requests\\ContractAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T00:15:47.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EquipmentTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\EquipmentTypeRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\EquipmentTypeRepository.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\EquipmentTypeRepository.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\EquipmentTypeRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:04:47.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductionFacilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\ProductionFacilityRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\ProductionFacilityRepository.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Repositories\\ProductionFacilityRepository.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Repositories\\ProductionFacilityRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:03:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240318230022_init.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318230022_init.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318230022_init.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318230022_init.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318230022_init.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:00:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\Contract.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Models\\Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:57:40.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductionFacility.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\ProductionFacility.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Models\\ProductionFacility.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\ProductionFacility.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Models\\ProductionFacility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:55:34.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EquipmentType.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\EquipmentType.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Models\\EquipmentType.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Models\\EquipmentType.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Models\\EquipmentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:55:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240318225649_init.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318225649_init.cs",
+              "RelativeDocumentMoniker": "..\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318225649_init.cs",
+              "ToolTip": "C:\\Users\\sanya\\source\\repos\\ProductionFacilitiesManagementAPI\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318225649_init.cs",
+              "RelativeToolTip": "..\\ProductionFacilitiesManagement.DAL\\Migrations\\20240318225649_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:56:49.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
